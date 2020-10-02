@@ -1,1 +1,1 @@
-# PirateBay-Proxy
+https://indiatpb.rocks/
